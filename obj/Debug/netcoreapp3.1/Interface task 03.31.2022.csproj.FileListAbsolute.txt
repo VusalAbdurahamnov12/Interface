@@ -1,0 +1,14 @@
+E:\homework\Interface task 03.31.2022\Interface task 03.31.2022\bin\Debug\netcoreapp3.1\Interface task 03.31.2022.exe
+E:\homework\Interface task 03.31.2022\Interface task 03.31.2022\bin\Debug\netcoreapp3.1\Interface task 03.31.2022.deps.json
+E:\homework\Interface task 03.31.2022\Interface task 03.31.2022\bin\Debug\netcoreapp3.1\Interface task 03.31.2022.runtimeconfig.json
+E:\homework\Interface task 03.31.2022\Interface task 03.31.2022\bin\Debug\netcoreapp3.1\Interface task 03.31.2022.runtimeconfig.dev.json
+E:\homework\Interface task 03.31.2022\Interface task 03.31.2022\bin\Debug\netcoreapp3.1\Interface task 03.31.2022.dll
+E:\homework\Interface task 03.31.2022\Interface task 03.31.2022\bin\Debug\netcoreapp3.1\Interface task 03.31.2022.pdb
+E:\homework\Interface task 03.31.2022\Interface task 03.31.2022\obj\Debug\netcoreapp3.1\Interface task 03.31.2022.csproj.AssemblyReference.cache
+E:\homework\Interface task 03.31.2022\Interface task 03.31.2022\obj\Debug\netcoreapp3.1\Interface task 03.31.2022.GeneratedMSBuildEditorConfig.editorconfig
+E:\homework\Interface task 03.31.2022\Interface task 03.31.2022\obj\Debug\netcoreapp3.1\Interface task 03.31.2022.AssemblyInfoInputs.cache
+E:\homework\Interface task 03.31.2022\Interface task 03.31.2022\obj\Debug\netcoreapp3.1\Interface task 03.31.2022.AssemblyInfo.cs
+E:\homework\Interface task 03.31.2022\Interface task 03.31.2022\obj\Debug\netcoreapp3.1\Interface task 03.31.2022.csproj.CoreCompileInputs.cache
+E:\homework\Interface task 03.31.2022\Interface task 03.31.2022\obj\Debug\netcoreapp3.1\Interface task 03.31.2022.dll
+E:\homework\Interface task 03.31.2022\Interface task 03.31.2022\obj\Debug\netcoreapp3.1\Interface task 03.31.2022.pdb
+E:\homework\Interface task 03.31.2022\Interface task 03.31.2022\obj\Debug\netcoreapp3.1\Interface task 03.31.2022.genruntimeconfig.cache
